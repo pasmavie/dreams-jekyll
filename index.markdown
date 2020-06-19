@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![G](/assets/G.jpeg)
