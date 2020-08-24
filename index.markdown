@@ -11,4 +11,4 @@ layout: home
 ![Gabriella Ferri](/assets/G.jpeg)
 
 
-![Franco Califano](/assets/califfo.jpeg)
+![Franco Califano](/assets/califfo.png)
