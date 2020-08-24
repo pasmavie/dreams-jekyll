@@ -5,4 +5,10 @@
 layout: home
 ---
 
-![G](/assets/G.jpeg)
+![Dreams Whale](/assets/dreams_whale.jpeg)
+
+
+![Gabriella Ferri](/assets/G.jpeg)
+
+
+![Franco Califano](/assets/califfo.jpeg)
