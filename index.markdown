@@ -8,7 +8,8 @@ layout: home
 ![Dreams Whale](/assets/dreams_whale.jpeg)
 
 
+Hardcore come Bob Malone, G come Gabriella Ferri - NN
 ![Gabriella Ferri](/assets/G.jpeg)
 
 
-![Franco Califano](/assets/califfo.png)
+![Franco Califano](/assets/califfo.jpeg)
