@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-June 2020 - Just tryin to motivate you all to dream and follow your dreams, Gio.
+June 2020 - Just trying to motivate you all to dream and follow your dreams, Gio.
 
-Recycle a T-shirt by printing one of my designs.
+Recycle a T-shirt by printing one of my drawings.
 
-Oh, I also like sailing, martial arts, bets and animals.
+Oh, I also like gambling, sailing, martial arts and animals.
+
 ```
 A man's dream,
 Never ends! 
