@@ -4,14 +4,12 @@ title: About
 permalink: /about/
 ---
 
-June 2020 - Just trying to motivate you all to dream and follow your dreams, Gio.
+I live between the Netherlands and Italy, working as a data scientist for a company in the CRE domain (US MF market).
 
-Recycle a T-shirt by printing one of my drawings.
+I am also trying to build my own quantamental trading framework.
 
-Oh, I also like gambling, sailing, martial arts and animals.
+I am deeply fascinated by probability and chances, especially when applied to gambling.
 
-```
-A man's dream,
-Never ends! 
-- Blackbeard
-```
+I am also into art, information security, rum, martial arts (taekwondo) and combat sports (boxing)
+
+I wanna set sail with Kaya (the white dog) as soon as possible, so I'm looking for an Hallberg-Rassy to cruise the 7 seas.
