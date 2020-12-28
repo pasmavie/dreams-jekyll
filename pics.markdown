@@ -5,6 +5,8 @@ permalink: /drawings/
 ---
 
 # Recycle a T-shirt by printing one of these images on it.
+![Touareg](/assets/touareg.jpeg)
+> L'alchimista
 
 ![Nex Cassel](/assets/mt.jpeg)
 > Tribute to Nex Cassel - Adria Costa
