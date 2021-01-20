@@ -5,6 +5,11 @@ permalink: /drawings/
 ---
 
 # Recycle a T-shirt by printing one of these images on it.
+![1](/assets/camaron1.jpeg)
+![2](/assets/camaron2.jpeg)
+![3](/assets/camaron3.jpeg)
+> ¡El camarón pistola!
+
 ![Touareg](/assets/touareg.jpeg)
 > L'alchimista
 
