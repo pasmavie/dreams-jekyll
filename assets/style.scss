@@ -1,0 +1,13 @@
+/*CSS Reset*/
+body, html {
+height: auto
+margin: 0
+}
+/*Basic Grid Layout*/
+body {
+display: grid
+grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr 
+/*Change min value to which you want it to be, can be in rem, em, vw etc.*/
+}
+
+
