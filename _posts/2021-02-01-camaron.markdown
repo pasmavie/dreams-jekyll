@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "¡El camarón pistola!"
+categories: jekyll update
+---
+
+I'm proud to present the catamaran: El Camaròn Pistóla, a minicat 310 Sport.
+
+Check out what animal is this. Here's a story. I've also printed a T for all the El-camarón crew.
+
+![1](/assets/camaron1.jpeg)
+
+![2](/assets/camaron2.jpeg)
+
+![3](/assets/camaron3.jpeg)

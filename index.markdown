@@ -2,6 +2,6 @@
 layout: home
 ---
 
-This website's not a blog, nor a portfolio. 
-It's just here to motivate you all to dream. And to follow your dreams.
+This is my website and shop. Check the latest updates or go get a T.
 
+ ![](/assets/dreams_graffiti.png)
