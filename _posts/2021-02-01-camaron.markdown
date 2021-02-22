@@ -4,9 +4,10 @@ title:  "¡El camarón pistola!"
 categories: jekyll update
 ---
 
-I'm proud to present the catamaran: El Camaròn Pistóla, a minicat 310 Sport.
+I'm proud to present you 'El Camaròn Pistóla' a proud minicat 310 Sport.
+![](/assets/camaron_toscolano.jpg)
 
-Check out what animal is this. Here's a story. I've also printed a T for all the El-camarón crew.
+Here's a stripe to celebrate his launch on the Garda Lake. I'm also gonna print some apparel for all the El-camarón crew.
 
 ![1](/assets/camaron1.jpeg)
 
